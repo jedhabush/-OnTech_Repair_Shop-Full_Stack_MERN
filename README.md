@@ -4,7 +4,7 @@ In Progress...
 Work in Progress soon...
 
 ## Description
-A small computer/electronics repair shop would like to optimize the way they do things manually. Currently OnTech shop is using sticky notes to write the customer's name, the required repair, the employee in charge of repairing the device and any other related notes. The shop owner would like to have a web application that do the following:
+A small computer/electronics repair shop would like to optimize the way they do things manually. Currently OnTech shop is using sticky notes to write the customer's name, the required repair, the employee in charge of repairing the device and any other related notes. The shop owner would like to have a web application to reduce manual errors, increase staff productivity and organization. The shop owner would like to implement the following:
 
 **User Stories** <br/>
 1- A public facing page with basic contact info <br/>
