@@ -3,3 +3,5 @@
 20221216	12:55:04	ad9e364b-a6a1-4a2e-add7-baa170a784c4	MongoServerError: user is not allowed to do action [find] on [test.users]	GET	/users	undefined
 20221216	15:15:33	7d3a518c-9281-41e0-89af-f47cdd3bb754	SyntaxError: Unexpected token } in JSON at position 59	POST	/users	undefined
 20221218	12:09:52	8bb05503-6468-44b0-ad9c-95ab9493b899	ValidationError: Note validation failed: user: Cast to ObjectId failed for value "Jessica" (type string) at path "user" because of "BSONTypeError"	POST	/notes	undefined
+20221220	11:56:28	c73e245d-5347-425e-acd4-7e52a96091ac	SyntaxError: Unexpected end of JSON input	GET	/users	undefined
+20221220	11:56:39	f4eb215e-3752-4667-ae06-c8c632b9b486	SyntaxError: Unexpected end of JSON input	GET	/users	undefined
