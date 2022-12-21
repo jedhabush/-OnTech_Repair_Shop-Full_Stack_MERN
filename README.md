@@ -41,7 +41,7 @@ Now, let's say an employee with credentials "Employee" logs in into the system. 
 
 ![alt text](https://i.pinimg.com/originals/8f/e0/66/8fe066fbbefce3f8ab4dd00b781e2bb8.jpg)
 
-- Log in to the system and view "notes" that only belong to them
+- Log in to the system and view "notes" that belong to them only
 
 ![alt text](https://i.pinimg.com/originals/bf/2a/bc/bf2abc5e1e75f1b16e4f14d671a1cfb0.jpg)
 
