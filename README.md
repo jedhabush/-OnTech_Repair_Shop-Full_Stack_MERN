@@ -10,7 +10,7 @@ The first page is the public page where customers can visit that page to grap th
 
 ![alt text](https://i.pinimg.com/originals/76/65/35/766535cb18ee58f0ac3860edddbadd98.jpg)
 
-This is a private page. While customers can see the login button on the front welcome page, only employees with "Active" credentials are able to log in using their log-ins details into the system to add/see customer notes.
+This is the log-in page for "Active" staff members. While customers can see the login button on the front welcome page, only employees with "Active" credentials are able to log in using their log-ins details into the system to add/see customer notes.
 
 ![alt text](https://i.pinimg.com/originals/10/87/ea/1087eaa3e8adcd761f0d2fae80f43d6a.jpg)
 
