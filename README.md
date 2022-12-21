@@ -95,3 +95,9 @@ A small computer/electronics repair shop would like to optimize the way they do 
 • JWT <br/>
 • Dotenv <br/>
 • cookie-parser <br/>
+
+## Limitations Remarks
+- The app is fully responsive to all devices. 
+- While the app can be improved in terms of styles and design. The whole point of this app was to expose myself to wide range of technologies especially the backend aspect as well as solidify and expand my current knowledge on the frontend side.
+- This project enabled me to see the full app life-cycle as well as how the backend and frontend work hand-in-hand to produce a full operational application. 
+- The app task is relatively simple. Having said that, it did require a lot of work and consistency which makes me appreciate what I do even more.
