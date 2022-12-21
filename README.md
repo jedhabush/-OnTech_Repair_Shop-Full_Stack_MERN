@@ -8,22 +8,22 @@ A small computer/electronics repair shop would like to optimize the way they do 
 
 **User Stories** (Current completed user stories marked with [X]) <br/>
 [X] A public facing page with basic contact info <br/>
-2- An employee login to the notes app <br/>
-3- Display current user and assigned role <br/>
-4- Provide a logout option <br/>
-5- Require users to login at least once per week <br/>
-6- Provide a way to remove employee access asap if needed <br/>
+[X] An employee login to the notes app <br/>
+[X] Display current user and assigned role <br/>
+[X] Provide a logout option <br/>
+[X] Require users to login at least once per week <br/>
+[X] Provide a way to remove employee access asap if needed <br/>
 [X] Notes are assigned to specific employees <br/>
 [X] Notes have a ticket #, title, note body, created & updated dates <br/>
 [X] Notes are either OPEN or COMPLETED <br/>
 [X] Users can be Employees, Managers, or Admins <br/>
-11- Notes can only be deleted by Managers or Admins <br/>
-12- Anyone can create a note (when customer checks-in) <br/>
-13- Employees can only view and edit their assigned notes <br/>
-14- Managers and Admins can view, edit, and delete all notes <br/>
-15- Only Managers and Admins can access User Settings <br/>
-16- Only Managers and Admins can create new users <br/>
-17- Desktop mode is essential but should be available in mobile as well <br/>
+[X] Notes can only be deleted by Managers or Admins <br/>
+[X] Anyone can create a note (when customer checks-in) <br/>
+[X] Employees can only view and edit their assigned notes <br/>
+[X] Managers and Admins can view, edit, and delete all notes <br/>
+[X] Only Managers and Admins can access User Settings <br/>
+[X] Only Managers and Admins can create new users <br/>
+[X] Desktop mode is essential but should be available in mobile as well <br/>
 
 
 ## Tech Stack: <br/>
